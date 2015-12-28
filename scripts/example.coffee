@@ -13,6 +13,18 @@ module.exports = (robot) ->
   robot.hear /morning/i, (res) ->
     res.send "Morning!"
 
+  robot.respond /search (.*)/i, (msg) ->
+    robot.http("https://libraries.io/api/search?q=#{msg.match[1]}")
+      .get() (err, res, body) ->
+        results = JSON.parse(body)
+        body = ''
+        for i in [0...3]
+          body += "#{results[i].name} - #{results[i].platform}\n"
+          body += "#{results[i].description}\n"
+          body += "#{results[i].package_manager_url}\n\n"
+
+        msg.send body
+
   # robot.respond /open the (.*) doors/i, (res) ->
   #   doorType = res.match[1]
   #   if doorType is "pod bay"
