@@ -8,8 +8,8 @@ This README is intended to help get you started. Definitely update and improve
 to talk about your own instance, how to use and deploy, what functionality he
 has, etc!
 
-[heroku]: http://www.heroku.com
-[hubot]: http://hubot.github.com
+[heroku]: https://www.heroku.com/
+[hubot]: https://hubot.github.com/
 [generator-hubot]: https://github.com/github/generator-hubot
 
 ### Running libby Locally
@@ -178,7 +178,7 @@ If you would like to deploy to either a UNIX operating system or Windows.
 Please check out the [deploying hubot onto UNIX][deploy-unix] and [deploying
 hubot onto Windows][deploy-windows] wiki pages.
 
-[heroku-node-docs]: http://devcenter.heroku.com/articles/node-js
+[heroku-node-docs]: https://devcenter.heroku.com/articles/getting-started-with-nodejs
 [deploy-heroku]: https://github.com/github/hubot/blob/master/docs/deploying/heroku.md
 [deploy-unix]: https://github.com/github/hubot/blob/master/docs/deploying/unix.md
 [deploy-windows]: https://github.com/github/hubot/blob/master/docs/deploying/unix.md
