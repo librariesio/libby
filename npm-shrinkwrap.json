@@ -386,9 +386,9 @@
       "resolved": "https://registry.npmjs.org/hubot-rules/-/hubot-rules-0.1.1.tgz"
     },
     "hubot-scripts": {
-      "version": "2.17.1",
+      "version": "2.17.2",
       "from": "hubot-scripts@>=2.16.2 <3.0.0",
-      "resolved": "https://registry.npmjs.org/hubot-scripts/-/hubot-scripts-2.17.1.tgz"
+      "resolved": "https://registry.npmjs.org/hubot-scripts/-/hubot-scripts-2.17.2.tgz"
     },
     "hubot-shipit": {
       "version": "0.2.0",
