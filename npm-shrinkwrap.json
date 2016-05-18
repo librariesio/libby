@@ -618,6 +618,11 @@
           "version": "2.3.0",
           "from": "on-finished@>=2.3.0 <2.4.0",
           "resolved": "https://registry.npmjs.org/on-finished/-/on-finished-2.3.0.tgz"
+        },
+        "statuses": {
+          "version": "1.2.1",
+          "from": "statuses@>=1.2.1 <1.3.0",
+          "resolved": "https://registry.npmjs.org/statuses/-/statuses-1.2.1.tgz"
         }
       }
     },
@@ -677,6 +682,11 @@
           "version": "0.13.1",
           "from": "send@0.13.1",
           "resolved": "https://registry.npmjs.org/send/-/send-0.13.1.tgz"
+        },
+        "statuses": {
+          "version": "1.2.1",
+          "from": "statuses@>=1.2.1 <1.3.0",
+          "resolved": "https://registry.npmjs.org/statuses/-/statuses-1.2.1.tgz"
         }
       }
     },
@@ -693,9 +703,9 @@
       }
     },
     "statuses": {
-      "version": "1.2.1",
+      "version": "1.3.0",
       "from": "statuses@>=1.0.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/statuses/-/statuses-1.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/statuses/-/statuses-1.3.0.tgz"
     },
     "stream-counter": {
       "version": "0.2.0",
