@@ -71,7 +71,7 @@
         },
         "mime-types": {
           "version": "2.1.11",
-          "from": "mime-types@>=2.1.10 <2.2.0",
+          "from": "mime-types@>=2.1.11 <2.2.0",
           "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.11.tgz"
         },
         "on-finished": {
@@ -85,9 +85,9 @@
           "resolved": "https://registry.npmjs.org/qs/-/qs-4.0.0.tgz"
         },
         "type-is": {
-          "version": "1.6.12",
+          "version": "1.6.13",
           "from": "type-is@>=1.6.6 <1.7.0",
-          "resolved": "https://registry.npmjs.org/type-is/-/type-is-1.6.12.tgz"
+          "resolved": "https://registry.npmjs.org/type-is/-/type-is-1.6.13.tgz"
         }
       }
     },
@@ -144,7 +144,7 @@
         },
         "mime-types": {
           "version": "2.1.11",
-          "from": "mime-types@>=2.1.10 <2.2.0",
+          "from": "mime-types@>=2.1.11 <2.2.0",
           "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.11.tgz"
         },
         "qs": {
@@ -153,9 +153,9 @@
           "resolved": "https://registry.npmjs.org/qs/-/qs-4.0.0.tgz"
         },
         "type-is": {
-          "version": "1.6.12",
+          "version": "1.6.13",
           "from": "type-is@>=1.6.6 <1.7.0",
-          "resolved": "https://registry.npmjs.org/type-is/-/type-is-1.6.12.tgz"
+          "resolved": "https://registry.npmjs.org/type-is/-/type-is-1.6.13.tgz"
         }
       }
     },
