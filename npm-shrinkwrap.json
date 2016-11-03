@@ -887,9 +887,9 @@
       "resolved": "https://registry.npmjs.org/redis/-/redis-0.8.4.tgz"
     },
     "request": {
-      "version": "2.76.0",
+      "version": "2.77.0",
       "from": "request@>=2.64.0 <3.0.0",
-      "resolved": "https://registry.npmjs.org/request/-/request-2.76.0.tgz",
+      "resolved": "https://registry.npmjs.org/request/-/request-2.77.0.tgz",
       "dependencies": {
         "mime-db": {
           "version": "1.24.0",
