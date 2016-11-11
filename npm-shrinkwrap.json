@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "dependencies": {
     "@slack/client": {
-      "version": "3.6.0",
+      "version": "3.6.1",
       "from": "@slack/client@>=3.4.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/@slack/client/-/client-3.6.0.tgz",
+      "resolved": "https://registry.npmjs.org/@slack/client/-/client-3.6.1.tgz",
       "dependencies": {
         "async": {
           "version": "1.5.2",
@@ -614,9 +614,9 @@
       "resolved": "https://registry.npmjs.org/hubot-shipit/-/hubot-shipit-0.2.0.tgz"
     },
     "hubot-slack": {
-      "version": "4.2.1",
+      "version": "4.2.2",
       "from": "hubot-slack@>=4.0.4 <5.0.0",
-      "resolved": "https://registry.npmjs.org/hubot-slack/-/hubot-slack-4.2.1.tgz"
+      "resolved": "https://registry.npmjs.org/hubot-slack/-/hubot-slack-4.2.2.tgz"
     },
     "iconv-lite": {
       "version": "0.4.11",
