@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "dependencies": {
     "@slack/client": {
-      "version": "3.7.0",
+      "version": "3.8.1",
       "from": "@slack/client@>=3.4.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/@slack/client/-/client-3.7.0.tgz",
+      "resolved": "https://registry.npmjs.org/@slack/client/-/client-3.8.1.tgz",
       "dependencies": {
         "async": {
           "version": "1.5.2",
@@ -838,6 +838,11 @@
       "version": "2.0.1",
       "from": "pinkie-promise@>=2.0.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/pinkie-promise/-/pinkie-promise-2.0.1.tgz"
+    },
+    "pkginfo": {
+      "version": "0.4.0",
+      "from": "pkginfo@>=0.4.0 <0.5.0",
+      "resolved": "https://registry.npmjs.org/pkginfo/-/pkginfo-0.4.0.tgz"
     },
     "proxy-addr": {
       "version": "1.0.10",
